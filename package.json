@@ -1,0 +1,12 @@
+{
+  "name": "statistical-analysis-app",
+  "version": "1.0.0",
+  "description": "A statistical analysis application",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py"
+  },
+  "keywords": ["statistics", "analysis", "python"],
+  "author": "",
+  "license": "ISC"
+}
